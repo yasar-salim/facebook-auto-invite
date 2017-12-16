@@ -1,0 +1,17 @@
+{
+  "name": "fb_invite",
+  "version": "1.0.0",
+  "description": "for inviting all friends on fb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "facebook",
+    "invite",
+    "auto",
+    "invite"
+  ],
+  "author": "yasar salim",
+  "license": "ISC"
+}

@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+
+  "name": "Facebook auto invite",
+  "description": "This extension allows the user to invite all friends for like a page",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab",
+    "storage"
+  ]
+}
